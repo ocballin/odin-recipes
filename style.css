@@ -22,3 +22,7 @@ li a {
   text-decoration: none;
   color: white;
 }
+.landing div img {
+  height: auto;
+  width: 500px;
+}
