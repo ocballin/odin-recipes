@@ -1,4 +1,4 @@
-ocballin.github.io/odin-recipes/
+[ocballin.github.io/odin-recipes/](ocballin.github.io/odin-recipes/)
 
 This is an Odin Recipe Site built for the Odin Project first web design
 
