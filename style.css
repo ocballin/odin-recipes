@@ -67,12 +67,6 @@ picture {
   aspect-ratio: 1/1;
 }
 
-.card a {
-  text-decoration: none;
-}
-.card a:visited {
-  color: white;
-}
 @media (max-width: 920px) {
   .card-content {
     line-height: 1;
